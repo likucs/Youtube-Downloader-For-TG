@@ -8,5 +8,5 @@ async def start(client, message):
 		[InlineKeyboardButton("Report Bugs 🚨", url="https://t.me/JNS_FC_BOTS")]
                 ])
 
-	help_image = "https://telegra.ph/file/8e3d7e8da2d02d3bd4b75.jpg"
+	help_image = "https://telegra.ph/file/7228b162849378a99a635.jpg"
 	await message.reply_photo(help_image,  caption="**💡 HELP 📃...**\n \n__• Just Send your Youtube video url 🌟__ \n__• And i will give Method list to select your choice 😋__\n \n======================\n__• 😊 This bot is fully free.__\n`•⚙ Don't pay anyone for Bots like this.`\n\n⚡ ```Bot By JNS BOTS``` 🚨\n",reply_markup=alpha2)
