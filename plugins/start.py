@@ -6,8 +6,8 @@ async def start(client, message):
     # return
     Alpha = InlineKeyboardMarkup([
         
-        [InlineKeyboardButton("📌️ JNS BOTS 🔎", url="https://t.me/JNS_BOTS")],
-        [InlineKeyboardButton("📌️ support 🔎", url="https://t.me/JNS_FC_BOTS")]
+        [InlineKeyboardButton("📌️ KOT BOTS 🔎", url="https://t.me/KOT_BOTS")],
+        [InlineKeyboardButton("📌️ support 🔎", url="https://t.me/KOT_REPORS")]
 
     ])
     thumbnail_url = "https://telegra.ph/file/7228b162849378a99a635.jpg"
